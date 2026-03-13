@@ -1,0 +1,11 @@
+{
+    "commands": {
+        "terminal": {
+            "terminal.output": "print",
+            "terminal.input": "input"
+        },
+        "other": {
+            "comment": "#"
+        }
+    }
+}
